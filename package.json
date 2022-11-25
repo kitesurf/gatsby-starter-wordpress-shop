@@ -6,7 +6,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "gatsby-plugin-manifest": "^5.0.0",
+    "gatsby-plugin-manifest": "^4.0.0",
     "gatsby-source-wordpress": "^7.0.0",
     "@fontsource/dm-mono": "^4.5.9",
     "@fontsource/dm-sans": "^4.5.8",
